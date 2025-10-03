@@ -48,7 +48,7 @@ async function automateWebsiteInteraction() {
   try {
     console.log('🚀 Starting automation...');
     
-    for (let i = 1; i <= 10000; i++) {
+    for (let i = 1; i <= 50000000; i++) {
       console.log(`\n=== Iteration ${i} ===`);
       
       // Step 1: Open website
